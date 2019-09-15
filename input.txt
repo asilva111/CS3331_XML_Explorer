@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<Jax>
+
+ <Student> 
+ 	<Name> Jose </Name> 
+ 	<Rank> Freshman </Rank> 
+ 	<GPA> 0.0 </GPA> 
+	<FavoriteColor> Blue </FavoriteColor>
+	<Diabetic> True </Diabetic>
+ </Student> 
+
+ <Student> 
+ 	<Name> Alma </Name> 
+ 	<Rank> Senior </Rank> 
+ 	<GPA> 3.49</GPA> 
+ </Student> 
+
+ <Grade> 
+ 	<Name> Joshua </Name> 
+ 	<Assignment> Exam1 </Assignment> 
+ 	<Value> 100 </Value> 
+ 	<LetterGrade> A </LetterGrade> 
+ </Grade> 
+
+</Jax>
+
+ 
